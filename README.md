@@ -14,5 +14,4 @@ feature-task5 — каталог проекта task5,содержащий пр�
 Romanenkova Lolita, 15 gr
 
 # Additional Notes
-- [docs.google.com/document/d/14W2sCwju6rPkgsG0lXx9BfHsDv3xNzRV/edit?usp=sharing&ouid=118432341330588258308&rtpof=true&sd=true]
-(https://docs.google.com/document/d/14W2sCwju6rPkgsG0lXx9BfHsDv3xNzRV/edit?usp=sharing&ouid=118432341330588258308&rtpof=true&sd=true)
+- [https://docs.google.com/document/d/1FTwoLcEmNX1uHbGLlBbXNt_9t7H5-q71tUaKV-Bv8PI/edit?usp=sharing](https://docs.google.com/document/d/1FTwoLcEmNX1uHbGLlBbXNt_9t7H5-q71tUaKV-Bv8PI/edit?usp=sharing)
